@@ -1,0 +1,6 @@
+{
+  "name": "AymanPortfolio",
+  "description": "Futuristic EEE Engineering Student Portfolio for Ayman Ullah featuring 3D interactive circuits, project showcase, research blogs, and AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
